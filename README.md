@@ -1,10 +1,16 @@
 ![Header](https://github.com/MuradMgmdv/MuradMgmdv/blob/main/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-03-09%2022-09-40.png)
 
-## Bсем привет я Мурад
+## Bсем привет я Мурад, я фронтенд разработчик
+
+<h3>Обо мне</h3>
+<ul>
+ <li>Люблю учиться чему то новому</li>
+ <li>В прошлом занимался спортом</li>
+</ul>
 
 
 <h3>Напиши мне</h3>
-<a href="https://t.me/m_omaras"><img src="" /></a>
+<a href="https://t.me/m_omaras"><img src="https://github.com/MuradMgmdv/MuradMgmdv/blob/main/assets/artage-io-thumb-9cfcd10dceda7ae2d9eb329237ac313a.png" /></a>
 
 ### Мой стек технологий
 ![JavaScript](https://img.shields.io/badge/-JavaScript-24292f?style=for-the-badge&logo=JavaScript)
