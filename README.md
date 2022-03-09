@@ -2,3 +2,15 @@
 
 ## Bсем привет я Мурад
 
+
+### Мой стек технологий
+![JavaScript](https://img.shields.io/badge/-JavaScript-24292f?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-24292f?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-24292f?style=for-the-badge&logo=Redux)
+![HTML](https://img.shields.io/badge/-HTML-24292f?style=for-the-badge&logo=HTML5)
+![Css](https://img.shields.io/badge/-Css-24292f?style=for-the-badge&logo=Css3)
+![Sequelize](https://img.shields.io/badge/-Sequelize-24292f?style=for-the-badge&logo=Sequelize)
+![Express](https://img.shields.io/badge/-Express-24292f?style=for-the-badge&logo=Express)
+![NodeJs](https://img.shields.io/badge/-NodeJs-24292f?style=for-the-badge&logo=Node.Js)
+
+
