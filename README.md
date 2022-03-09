@@ -3,6 +3,9 @@
 ## Bсем привет я Мурад
 
 
+<h3>Напиши мне</h3>
+<a href="https://t.me/m_omaras"><img src="" /></a>
+
 ### Мой стек технологий
 ![JavaScript](https://img.shields.io/badge/-JavaScript-24292f?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-24292f?style=for-the-badge&logo=React)
