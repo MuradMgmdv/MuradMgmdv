@@ -14,6 +14,7 @@
 
 ### Мой стек технологий
 ![JavaScript](https://img.shields.io/badge/-JavaScript-24292f?style=for-the-badge&logo=JavaScript)
+![TS](https://img.shields.io/badge/-TypeScript-24292f?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-24292f?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-24292f?style=for-the-badge&logo=Redux)
 ![Redux Toolkit](https://img.shields.io/badge/-ReduxToolkit-24292f?style=for-the-badge&logo=ReduxToolkit)
@@ -22,4 +23,4 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-24292f?style=for-the-badge&logo=Sequelize)
 ![Express](https://img.shields.io/badge/-Express-24292f?style=for-the-badge&logo=Express)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-24292f?style=for-the-badge&logo=Node.Js)
-![TS](https://img.shields.io/badge/-TypeScript-24292f?style=for-the-badge&logo=TypeScript)
+
