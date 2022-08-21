@@ -21,6 +21,6 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-24292f?style=for-the-badge&logo=Sequelize)
 ![Express](https://img.shields.io/badge/-Express-24292f?style=for-the-badge&logo=Express)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-24292f?style=for-the-badge&logo=Node.Js)
-![TypeScript]
+[![TypeScript]](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
 
 
