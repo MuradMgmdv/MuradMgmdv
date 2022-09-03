@@ -7,9 +7,9 @@
  + *В прошлом занимался спортом* :running:
 ___
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuradMgmdv&layout=compact)
-
 <img align="right" alt="Coding" with="250" height="250" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuradMgmdv&layout=compact)
 ___
 >### ***Мой стек технологий:***
 
