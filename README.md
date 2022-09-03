@@ -13,7 +13,7 @@ ___
 ___
 >### ***Мой стек технологий:***
 
->![JavaScript](https://img.shields.io/badge/-JavaScript-24292f?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-24292f?style=for-the-badge&logo=JavaScript)
 ![TS](https://img.shields.io/badge/-TypeScript-24292f?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-24292f?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-24292f?style=for-the-badge&logo=Redux)
