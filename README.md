@@ -5,13 +5,12 @@
 >***Обо мне***
  + *Люблю учиться чему то новому* :book:
  + *В прошлом занимался спортом* :running:
-
-
+___
 
 >***Напиши мне*** :black_nib:
 
 <a href="https://t.me/m_omaras"><img src="https://github.com/MuradMgmdv/MuradMgmdv/blob/main/assets/artage-io-thumb-9cfcd10dceda7ae2d9eb329237ac313a.png" height="50px" width="50px"/></a>
-
+___
 >### ***Мой стек технологий:***
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-24292f?style=for-the-badge&logo=JavaScript)
