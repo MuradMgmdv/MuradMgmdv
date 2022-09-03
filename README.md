@@ -7,7 +7,7 @@
  + *В прошлом занимался спортом* :running:
 ___
 
-<img align="right" alt="Coding" with="300" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+<img align="right" alt="Coding" with="200" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 >***Напиши мне*** :black_nib:
 
