@@ -25,5 +25,4 @@
 ![NodeJs](https://img.shields.io/badge/-NodeJs-24292f?style=for-the-badge&logo=Node.Js)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuradMgmdv)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuradMgmdv&layout=compact)
