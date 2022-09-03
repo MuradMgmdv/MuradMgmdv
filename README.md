@@ -7,6 +7,8 @@
  + *В прошлом занимался спортом* :running:
 ___
 
+<img align="right" alt="Coding" with="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+
 >***Напиши мне*** :black_nib:
 
 <a href="https://t.me/m_omaras"><img src="https://github.com/MuradMgmdv/MuradMgmdv/blob/main/assets/artage-io-thumb-9cfcd10dceda7ae2d9eb329237ac313a.png" height="50px" width="50px"/></a>
