@@ -7,13 +7,13 @@
  + *В прошлом занимался спортом* :running:
 ___
 
-<img align="right" alt="Coding" with="200" height="200" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+<img align="right" alt="Coding" with="250" height="250" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuradMgmdv&layout=compact)
 ___
 >### ***Мой стек технологий:***
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-24292f?style=for-the-badge&logo=JavaScript)
+>![JavaScript](https://img.shields.io/badge/-JavaScript-24292f?style=for-the-badge&logo=JavaScript)
 ![TS](https://img.shields.io/badge/-TypeScript-24292f?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-24292f?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-24292f?style=for-the-badge&logo=Redux)
@@ -26,6 +26,6 @@ ___
 ___
 
 
->***Напиши мне*** :black_nib:
+***Напиши мне*** :black_nib:
 
 <a href="https://t.me/m_omaras"><img src="https://github.com/MuradMgmdv/MuradMgmdv/blob/main/assets/artage-io-thumb-9cfcd10dceda7ae2d9eb329237ac313a.png" height="50px" width="50px"/></a>
