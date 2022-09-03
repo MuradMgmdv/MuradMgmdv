@@ -9,9 +9,7 @@ ___
 
 <img align="right" alt="Coding" with="200" height="200" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
->***Напиши мне*** :black_nib:
-
-<a href="https://t.me/m_omaras"><img src="https://github.com/MuradMgmdv/MuradMgmdv/blob/main/assets/artage-io-thumb-9cfcd10dceda7ae2d9eb329237ac313a.png" height="50px" width="50px"/></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuradMgmdv&layout=compact)
 ___
 >### ***Мой стек технологий:***
 
@@ -27,4 +25,7 @@ ___
 ![NodeJs](https://img.shields.io/badge/-NodeJs-24292f?style=for-the-badge&logo=Node.Js)
 ___
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuradMgmdv&layout=compact)
+
+>***Напиши мне*** :black_nib:
+
+<a href="https://t.me/m_omaras"><img src="https://github.com/MuradMgmdv/MuradMgmdv/blob/main/assets/artage-io-thumb-9cfcd10dceda7ae2d9eb329237ac313a.png" height="50px" width="50px"/></a>
