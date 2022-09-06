@@ -6,8 +6,8 @@
  + *Люблю учиться чему то новому* :book:
  + *В прошлом занимался спортом* :running:
 ___
-
-<img align="right" alt="Coding" with="250" height="250" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+<br/>
+<img align="right" alt="Coding" with="250" height="250" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" style="float:right; margin: -55px 0px 0px 0px" >
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuradMgmdv&layout=compact)
 ___
