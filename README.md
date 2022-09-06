@@ -10,7 +10,7 @@ ___
 <img align="right" alt="Coding" with="250" height="250" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" style="float:right; margin: -55px 0px 0px 0px" >
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuradMgmdv&layout=compact)
-___
+
 >### ***Мой стек технологий:***
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-24292f?style=for-the-badge&logo=JavaScript)
