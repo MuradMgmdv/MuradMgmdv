@@ -11,8 +11,9 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuradMgmdv&layout=compact)
 
-___
 <br/>
+
+___
 
 
 >### ***Мой стек технологий:***
