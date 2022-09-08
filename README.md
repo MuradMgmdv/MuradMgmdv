@@ -12,7 +12,7 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuradMgmdv&layout=compact)
 
-![codewars](https://www.codewars.com/users/Murad%20Mgmdv/badges/small)
+![codewars](https://www.codewars.com/users/Murad%20Mgmdv/badges/large)
 
 ___
 
