@@ -36,3 +36,4 @@ ___
 ***Напиши мне*** :black_nib:
 
 <a href="https://t.me/m_omaras"><img src="https://github.com/MuradMgmdv/MuradMgmdv/blob/main/assets/tel.png" height="50px" width="50px"/></a>
+![](https://komarev.com/ghpvc/?username=your-github-MuradMgmdv)
