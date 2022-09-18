@@ -1,4 +1,4 @@
-![MuradMgmdv github activity graph](https://activity-graph.herokuapp.com/graph?username=MuradMgmdv&theme=react-dark)
+
 
 
 # ***Привет, я фронтенд разработчик***
