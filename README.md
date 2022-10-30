@@ -3,7 +3,7 @@
 
 # ***Привет, я фронтенд разработчик***
 
->***Обо мне:***
+***Обо мне:***
  + *Люблю учиться чему то новому* :book:
  + *В прошлом занимался спортом* :running:
 ___
@@ -19,7 +19,7 @@ ___
 ___
 
 
->### ***Мой стек технологий:***
+### ***Мой стек технологий:***
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-24292f?style=for-the-badge&logo=JavaScript)
 ![TS](https://img.shields.io/badge/-TypeScript-24292f?style=for-the-badge&logo=TypeScript)
