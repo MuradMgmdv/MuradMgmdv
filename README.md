@@ -33,6 +33,6 @@ ___
 ___
 
 
-***Напиши мне***
+***Напиши мне:***
 
 <a href="https://t.me/m_omaras"><img src="https://github.com/MuradMgmdv/MuradMgmdv/blob/main/assets/tel.png" height="50px" width="50px"/></a>
