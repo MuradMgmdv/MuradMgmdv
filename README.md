@@ -31,6 +31,7 @@ ___
 ![Sass](https://img.shields.io/badge/-Sass-24292f?style=for-the-badge&logo=Sass)
 ![Webpack](https://img.shields.io/badge/-Webpack-24292f?style=for-the-badge&logo=Webpack)
 ![Vite](https://img.shields.io/badge/-Vite-24292f?style=for-the-badge&logo=Vite)
+![Urql](https://img.shields.io/badge/-Urql-24292f?style=for-the-badge&logo=Urql)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-24292f?style=for-the-badge&logo=Sequelize)
 ![Express](https://img.shields.io/badge/-Express-24292f?style=for-the-badge&logo=Express)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-24292f?style=for-the-badge&logo=Node.Js)
