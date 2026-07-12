@@ -4,7 +4,7 @@
 # ***Привет, я фронтенд разработчик.***
 
 
-
+___
 <img align="right" alt="Coding" with="250" height="250" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 
